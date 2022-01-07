@@ -1733,7 +1733,7 @@ de: {
 	narcoticsNeeded: "Benötigte Narkosemittel",
 	noMultipliers: "Der {0} besitzt keine Multiplikatoren für Kopfschüsse oder andere Bereiche.",
 	oxygen: "Sauerstoff",
-	pauseTimer: "Timer Pause",
+	pauseTimer: "Timer pausieren",
 	pregnancy: "Schwangerschaft",
 	preferredBy: "Bevorzugt von",
 	primary: "Primär",
@@ -1885,9 +1885,9 @@ de: {
 	reportUGC: "Unangemessenen Inhalt oder Spam melden?",
 	thanksReport: "Vielen Dank für deine Meldung!",
 	all: "Alle",
-	tamingKO: "Zähmen & Betäuben",
-	utility: "Dienstprogramm",
-	encountering: "Begegnen",
+	tamingKO: "Zähmen & KO",
+	utility: "Nutzen",
+	encountering: "Begegnung",
 	loadMore: "Mehr laden",
 	noTips: "Leider gibt es noch keine Tipps. Sei der erste, der welche hinzufügt!",
 	betaTesting: "Dododex Beta testen",
@@ -10505,6 +10505,9 @@ var languages = {
 		},{
 			name:"Lady Xiahou",
 			link:"https://twitter.com/ladyxiahou"
+		},{
+			name:"Carotinbombe",
+			link:"https://github.com/Carotinbombe"
 		}]
 	},
 	el:{
